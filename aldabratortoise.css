@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: rgb(181, 134, 83);
+    font-size: 24pt;
+}
+ h3{
+     font-size: 24pt;
+ }
+
+ p{
+     font-size: 16pt;
+ }
+
+ img{
+     width: 25%;
+     height: 25%;
+ }
